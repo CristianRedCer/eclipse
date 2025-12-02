@@ -1,4 +1,3 @@
-
 public class HolaMundo {
 
 	public static void main(String[] args) {
@@ -8,6 +7,7 @@ public class HolaMundo {
 		b = 8;
 		c = a + b;
 		d = b - a;
+		System.out.println("La suma y la resta de " + a + " y " + b + " da como resultado: " + c + " y " + d );
 	}
 
 }
